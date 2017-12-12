@@ -1,1 +1,2 @@
+Clone to another machine
 this is test file 2
